@@ -1,5 +1,3 @@
-# Quentin Wright
-
 from decode import decode
 
 def encode(passcode):
